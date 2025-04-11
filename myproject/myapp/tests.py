@@ -1,5 +1,5 @@
 from django.test import TestCase, Client
-from myapp.views import sumar
+from myapp.views import ping
 
 
 # Test del endpoint ping
